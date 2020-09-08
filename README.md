@@ -7,7 +7,7 @@ I am Arpit Goyal an active CTF Player contributing my time learning about Hackin
 About Me:
 
 - 🔭 I’m currently working as Lead in CybSec NITW [CybSec-NITW](https://www.cybsec.in/).
-- 🌱 My Interests are Network Pentesting, Cloud computing, CTFs, HTB and THM is Love <3 
+- 🌱 My Interests are Network Pentesting, Cloud computing, CTFs, HTB and THM is Love <3
 - 💬 Ask me about Anything in discord
 - 📫 How to reach me: argenestel everywhere 
-- ⚡ Fun fact: Hacking is fun
+- ⚡ Fun fact: Hacking is fun and anime is love
