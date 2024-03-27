@@ -22,6 +22,4 @@ I'm an AR/VR software, game, and web3 developer with a passion for pushing the b
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![argenestel's Stats](https://github-readme-stats.vercel.app/api?username=argenestel&theme=dracula&show_icons=true&hide_border=false&count_private=true)
