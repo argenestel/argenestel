@@ -5,7 +5,7 @@
 
 Interested in softwares and games, 90% of time bored, Mild ADHD, the left one in bell's curve. My pfp is accurate depiction of my day
 
-## 🛠️ Skills
+## 🛠️ Might know 
 
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
@@ -13,7 +13,6 @@ Interested in softwares and games, 90% of time bored, Mild ADHD, the left one in
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
 ## 📊 GitHub Stats
 
