@@ -17,8 +17,7 @@ Interested in softwares and games, 90% of time bored, Mild ADHD, the left one in
 
 ## 📊 GitHub Stats
 
+To keep me motivated to push
+
 ![argenestel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=argenestel&theme=dark&hide_border=true)
-
-![argenestel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=argenestel&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
 ![argenestel's Stats](https://github-readme-stats.vercel.app/api?username=argenestel&theme=dark&show_icons=true&hide_border=true&count_private=true)
