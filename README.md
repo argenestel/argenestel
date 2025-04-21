@@ -1,13 +1,9 @@
-# 🚀 Welcome to My GitHub Profile! 🌌
 
-[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/argenestel)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xArpitg)
 
-![](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)
+## 🎮 About Me 
 
-## 🎮 About Me
-
-I'm an AR/VR software, game, and web3 developer with a passion for pushing the boundaries of technology. I love creating immersive experiences that blend the virtual and real worlds. With a keen eye for detail and a knack for problem-solving, I'm always ready to tackle new challenges and bring innovative ideas to life.
+Interested in softwares and games, 90% of time bored, Mild ADHD, the left one in bell's curve. My pfp is accurate depiction of my day
 
 ## 🛠️ Skills
 
