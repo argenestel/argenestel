@@ -3,7 +3,7 @@
 
 ## 🎮 About Me 
 
-Interested in softwares and games, 90% of time bored, Mild ADHD, the left one in bell's curve. My pfp is accurate depiction of my day
+Interested in softwares and games, 90% of time bored, Mild ADHD, the left one in bell's curve. My pfp is accurate depiction. Fan of gintoki
 
 ## 🛠️ Might know 
 
