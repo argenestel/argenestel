@@ -20,3 +20,6 @@ To keep me motivated to push
 
 ![argenestel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=argenestel&theme=dark&hide_border=true)
 ![argenestel's Stats](https://github-readme-stats.vercel.app/api?username=argenestel&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+
+<a href="https://app.daily.dev/arpitgoyal"><img src="https://api.daily.dev/devcards/v2/50HfstxOhiZ6D21Sm0lgv.png?r=n94&type=wide" width="652" alt="ag's Dev Card"/></a>
